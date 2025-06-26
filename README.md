@@ -5,7 +5,9 @@ Mean and standard deviation of YOY change is collected from Date A to Date B.
 
 This data is used to create a Gaussian Random Walk many years out.
 
-# How to Run (Python + Windows Git Bash)
+**A valid Kaggle API is needed since that is where data is pulled.**
+
+# Configuration (Python + Windows Git Bash)
 New environment:
 ```
 $ python -m venv venv
