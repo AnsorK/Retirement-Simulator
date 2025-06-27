@@ -1,5 +1,5 @@
-# SPY Simulator 🕵️💹
-Simulating price action for the SPDR S&P 500 Trust ETF, or better known as SPY!
+# Retirement Simulator 🧓
+Simulating investment returns based on the SPDR S&P 500 Trust ETF, or better known as SPY!
 
 Mean and standard deviation of YOY change is collected from Date A to Date B.
 
